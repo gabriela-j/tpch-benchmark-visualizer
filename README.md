@@ -37,6 +37,7 @@ The application allows users to flexibly explore and compare CPU usage, memory p
 ---
 
 ## Screenshots
+> ![launcher](https://github.com/user-attachments/assets/0f09f070-a518-410d-b5f6-4478f73b6d6f)
 
 >
 
@@ -44,9 +45,9 @@ The application allows users to flexibly explore and compare CPU usage, memory p
 
 ## Folder Structure
 
-├── launcher.py # Main file that launches the application (launcher/main window)
+├── launcher.py    # Main file that launches the application (launcher/main window)
 ├── PeakSpill/
-│ ├── PeakSpillApp.py # 'Peak & Spill' module
+│ ├── PeakSpillApp.py   # 'Peak & Spill' module
 │ ├── memory_peak.py # Script for generating memory charts
 │ ├── cpu_peak.py # Script for generating CPU charts
 │ ├── spill.py # Script for generating spill charts
@@ -108,7 +109,7 @@ pip install pandas numpy plotly matplotlib customtkinter openpyxl
 ## Installation & Setup
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/gabriela-j/tpch-benchmark-visualizer.git
    cd your-repo
 
 2. Prepare your input data:
