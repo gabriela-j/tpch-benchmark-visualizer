@@ -39,7 +39,19 @@ The application allows users to flexibly explore and compare CPU usage, memory p
 ## Screenshots
 > ![launcher](https://github.com/user-attachments/assets/0f09f070-a518-410d-b5f6-4478f73b6d6f)
 
->
+>![PeakSpill](https://github.com/user-attachments/assets/7aca6c41-7ae0-4974-bd45-4cd2bfa5fbd6)
+>![ResponseTime](https://github.com/user-attachments/assets/bb775fe6-eb9c-46c2-8eb4-43627ce7268b)
+>![bar_chart](https://github.com/user-attachments/assets/49566425-5094-4608-803f-473ffd49ecc5)
+>![boxplot](https://github.com/user-attachments/assets/3b85f0fa-95bc-4bfb-b2e3-6970571717d8)
+>![heatmap (2)](https://github.com/user-attachments/assets/23120ea6-f948-44c4-9287-c0dd45d0a328)
+>![boxplot_query 1_1gb_1node](https://github.com/user-attachments/assets/591339e3-981d-4142-90bc-228cec6e8403)
+>![bar_average_1gb](https://github.com/user-attachments/assets/5e10316b-e112-4291-be16-ee755b54f50e)
+
+
+
+
+
+
 
 ---
 
