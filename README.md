@@ -45,45 +45,84 @@ The application allows users to flexibly explore and compare CPU usage, memory p
 
 ## Folder Structure
 
-├── launcher.py    # Main file that launches the application (launcher/main window)
+├── launcher.py    # Main file that launches the application (launcher/main window) 
+
 ├── PeakSpill/
+
 │ ├── PeakSpillApp.py   # 'Peak & Spill' module
+
 │ ├── memory_peak.py # Script for generating memory charts
+
 │ ├── cpu_peak.py # Script for generating CPU charts
+
 │ ├── spill.py # Script for generating spill charts
+
 │ ├── **init**.py
+
 │ ├── .benchmark_data/ # Input data (Excel)
+
 │ └── 1Gb/
+
 │ │ └── ...
+
 │ └── ...
+
 │ └── .generated_files/ # Output files (HTML)
+
 │ └── cpu_peak_files/
+
 │ │ └── ...
+
 │ └── memory_files/
+
 │ │ └── ...
+
 │ └── spill_files/
+
 │ └── ...
+
 |
+
 ├── ResponseTime/
+
 │ ├── ResponseTimeApp.py # 'ResponseTime' module
+
 │ ├── bar_chart.py # Class for generating bar charts
+
 │ ├── boxplot.py # Class for generating boxplots (for different repetitions or different queries)
+
 │ ├── heatmap.py # Class for generating heatmaps
+
 │ ├── **init**.py
+
 │ ├── .benchmark_data/ # Input data (Excel)
+
 │ └── 1Gb/
+
 │ │ └── ...
+
 │ └── ...
+
 │ └── .generated_files/ # Output files (HTML/PNG)
+
 │ └── bar_chart_files/
+
 │ │ └── ...
+
 │ └── boxplot_files/
+
 │ │ └── ...
+
 │ └── heatmap_files/
+
 │ └── ...
+
 ...
+
 │
+
 └── README.md
+
 
 ---
 
