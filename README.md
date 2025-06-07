@@ -46,6 +46,12 @@ The application allows users to flexibly explore and compare CPU usage, memory p
 >![heatmap (2)](https://github.com/user-attachments/assets/23120ea6-f948-44c4-9287-c0dd45d0a328)
 >![boxplot_query 1_1gb_1node](https://github.com/user-attachments/assets/591339e3-981d-4142-90bc-228cec6e8403)
 >![bar_average_1gb](https://github.com/user-attachments/assets/5e10316b-e112-4291-be16-ee755b54f50e)
+>![memory_peak](https://github.com/user-attachments/assets/beaa0d48-088e-483e-8af1-b388f60bd61d)
+>![cpu_peak](https://github.com/user-attachments/assets/0ddfb7f8-6c42-48b0-8b04-e81bf1cf5618)
+>![spill](https://github.com/user-attachments/assets/a089ae08-da3c-4242-a37d-18b458495841)
+
+
+
 
 
 
